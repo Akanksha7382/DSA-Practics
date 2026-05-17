@@ -8,6 +8,8 @@ You cannot use the same element twice.
 
 ## solution: 
 ### Using Python:
+- Time complexity:O(N(N+1)/2)
+- space complexity :O(1)
 ```
 arr=[10,20,30,40,50]
 target=70
